@@ -11,7 +11,7 @@ An open source bot with totally 100% spaghetti code and definitely doesn't have 
 * Multi-purpose Discord bot
 
 ## Contributing to the project would be appreciated
-* Fork (Or join the [Discord server](https://discord.gg/MCHbrf3SwS))
+* Fork (Or join the [Discord server](https://discord.gg/MCHbrf3SwS) for invitation)
 * Do your thing
 * Make pull request
 * Wait...
