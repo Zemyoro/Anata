@@ -1,5 +1,5 @@
 # Anata
-An open source bot with totally 100% spaghetti code and definitely doesn't have two package managers.
+An open source Discord bot with totally 100% spaghetti code and definitely doesn't have two package managers.
 
 ## Credits to: (Any missing credits will be added if notified)
 * [Roembol](https://github.com/roembol2000) (For base bot)
