@@ -1,6 +1,8 @@
 # Anata
 An open source Discord bot with totally 100% spaghetti code and definitely doesn't have two package managers.
 
+## [Instructions](https://github.com/Zemyoro/Anata/wiki/Preparation)
+
 ## Credits to: (Any missing credits will be added if notified)
 * [Roembol](https://github.com/roembol2000) (For base bot)
 * [levichlev](https://github.com/levichlev) (For Spotify and help with commands)
