@@ -10,7 +10,7 @@ An open source Discord bot with totally 100% spaghetti code and definitely doesn
 * [Roembol#8341](https://github.com/roembol2000)
 * [Crafted#1114](https://github.com/CraftedVortex)
 * [MinxterYT#1337](https://github.com/MinxterYT)
-* [levichlev#1337](https://github.com/levichlev)
+* [levichlev#0065](https://github.com/levichlev)
 * [Xx__THK__xX#5184](https://github.com/ducanh2002123)
 * [Snags#1348](https://github.com/Sangster-5)
 
