@@ -3,9 +3,19 @@ An open source Discord bot with totally 100% spaghetti code and definitely doesn
 
 ## [Instructions](https://github.com/Zemyoro/Anata/wiki/Preparation)
 
-## Credits to: (Any missing credits will be added if notified)
-* [Roembol](https://github.com/roembol2000) (For base bot)
-* [levichlev](https://github.com/levichlev) (For Spotify and help with commands)
+
+# Takumi Team
+
+* [Zemyoro#5212](https://github.com/Zemyoro)
+* [Roembol#8341](https://github.com/roembol2000)
+* [Crafted#1114](https://github.com/CraftedVortex)
+* [MinxterYT#1337](https://github.com/MinxterYT)
+* [levichlev#1337](https://github.com/levichlev)
+* [Xx__THK__xX#5184](https://github.com/ducanh2002123)
+* [Snags#1348](https://github.com/Sangster-5)
+
+# Credits
+
 * [Exerra](https://github.com/Exerra) (For Spotify stuff)
 
 ## About
