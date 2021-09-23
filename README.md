@@ -6,7 +6,7 @@ An open source Discord bot with totally 100% spaghetti code and definitely doesn
 
 # Takumi Team
 
-* [Zemyoro#5212](https://github.com/Zemyoro)
+* [Zemyoro#1337](https://github.com/Zemyoro)
 * [Roembol#8341](https://github.com/roembol2000)
 * [Crafted#1114](https://github.com/CraftedVortex)
 * [MinxterYT#1337](https://github.com/MinxterYT)
