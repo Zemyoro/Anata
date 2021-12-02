@@ -1,5 +1,5 @@
 # Anata
-An open source Discord bot with totally 100% spaghetti code and definitely doesn't have two package managers.
+An open source Discord bot with totally 100% spaghetti code. Anata has been moved over to the team's repository: [/Kakotsu/Anata](https://github.com/Kakotsu/Anata)
 
 ## [Instructions](https://github.com/Zemyoro/Anata/wiki/Preparation)
 
