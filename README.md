@@ -1,8 +1,9 @@
 # Anata
 An open source Discord bot with totally 100% spaghetti code. Anata has been moved over to the team's repository: [/Kakotsu/Anata](https://github.com/Kakotsu/Anata)
 
-## [Instructions](https://github.com/Zemyoro/Anata/wiki/Preparation)
+# New version of Anata [available]((https://github.com/Kakotsu/AnataTS))!
 
+## [Instructions](https://github.com/Zemyoro/Anata/wiki/Preparation)
 
 # Takumi Team
 
